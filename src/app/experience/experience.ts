@@ -6,19 +6,6 @@ export const experiences: ExperienceYear[] = [
     ],
   },
   {
-    year: 2021,
-    experiences: [
-      {
-        title: 'Work as research assistant at RWTH Aachen University',
-        date: new Date('2021-01-05'),
-      },
-      {
-        title: 'Work as webmaster for the AVL academic circle',
-        date: new Date('2021-10-31'),
-      },
-    ],
-  },
-  {
     year: 2020,
     experiences: [
       { title: 'Bachelor\s Degree', date: new Date('2020-10-09') },
