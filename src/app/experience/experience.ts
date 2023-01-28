@@ -11,10 +11,10 @@ export const experiences: ExperienceYear[] = [
       { title: 'Bachelors Degree', date: new Date('2020-10-09') },
       {
         title: 'Work as research at RWTH I5 ACIS group',
-        date: new Date('2020-10-09'),
-      },
-    ],
-  },
+        date: new Date('2020-10-09')
+      }
+    ]
+  }
 ];
 
 export interface ExperienceYear {
