@@ -1,0 +1,54 @@
+.example-header-image {
+  background-size: cover;
+}
+img.card-img-top {
+  width: auto;
+  transition: 1s;
+  background-size: cover;
+}
+img.card-img-top:hover {
+  height: 30vh;
+  width: auto;
+  transform: scale(1.1);
+}
+
+.mat-card-image:first-child {
+    margin-top: 0 !important;
+}
+
+mat-card{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+mat-card-actions {
+  margin-top:auto
+}
+
+.img-link{
+   height: 55%;
+}
+
+
+.thumbnail{
+  height: 100%;
+}
+
+.project {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  overflow: hidden;
+  transition: 0.3s;
+  border-radius: 34px;
+}
+.project:hover {
+  height: fit-content;
+  transform: scale(1.05);
+  /* width: fit-content;
+  width: -moz-fit-content; */
+}
+
+
+
