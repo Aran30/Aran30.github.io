@@ -13,9 +13,12 @@ export function createAppRouter() {
 
     /** Create Home **/
     const routeList = [{
-        path: '/',
+        path:"/",
+        redirect:"/dist"
+    },{
+        path: '/dist',
         name: homeSection['id'],
-        component: RouterView
+        component: RouterView,
     }]
 
     /** Create Section Routes **/
