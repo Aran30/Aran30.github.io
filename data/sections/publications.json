@@ -1,0 +1,98 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Scientific publications</span>",
+            "description": "List of written and published scientific papers."
+        },
+        "es": {
+            "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
+            "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
+        },
+        "fr": {
+            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
+            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span> 集",
+            "description": "探索我所掌握和发展的多样技能:"
+        }
+    },
+
+    "subcategories": [
+       
+
+        {
+            "id": "extra",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": ""},
+                "es": {"title": "Habilidades Adicionales"},
+                "fr": {"title": "Plus Habiletés"},
+                "zh": {"title": "附加技能"}
+            }
+        }
+    ],
+
+    "items": {
+       
+        "extra": [
+        
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "From Image to UML: First Results of Image Based UML Diagram Generation Using LLMs", "description": "First Large Language Models for Model-Driven Engineering Workshop (LLM4MDE 2024)"},
+                    "es": {"title": "Análisis de Datos Centrado en el Usuario", "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."},
+                    "fr": {"title": "Analyse de Données Axée sur l'Utilisateur", "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."},
+                    "zh": {"title": "以用户为中心的数据分析", "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"}
+                }
+            },
+            
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Building BESSER: an open-source low-code platform", "description": "International Conference on Business Process Modeling, Development and Support (2024)"},
+                    "es": {"title": "Accesibilidad y Diseño Inclusivo", "description": "Capaz de crear experiencias digitales accesibles para todos."},
+                    "fr": {"title": "Accessibilité et Design Inclusif", "description": "Capable de créer des expériences numériques accessibles à tous."},
+                    "zh": {"title": "可访问性和包容性设计", "description": "能够创建面向所有人的数字体验。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "A Leaderboard to Benchmark Ethical Biases in LLMs", "description": "Workshop on AI bias: Measurements, Mitigation, Explanation Strategies AIMMES (2024)"},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Motivating Learners with Gamified Chatbot-Assisted Learning Activities", "description": "International Conference on Web-Based Learning (2023)"},
+                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
+                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
+                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": null,
+                "value": null,
+                "locales": {
+                    "en": {"title": "Supplemental Mobile Learner Support Through Moodle-Independent Assessment Bots", "description": "International Conference on Web-Based Learning (2021)"}
+                }
+            }
+            
+        ]
+
+    }
+}

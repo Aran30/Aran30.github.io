@@ -3,7 +3,7 @@
         "en": {
             "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
             "welcomeShort": "Welcome!",
-            "bio": "This page is a work in progress."
+            "bio": "I'm Aaron. I am currently a PhD student in computer science at the Luxembourgish Institute for Science and Technology (LIST). My PhD tackles the efficient development of adaptive user interfaces. Specifically, I will employ low-code/MDE techniques to develop adaptive UIs, with a focus on conversational user interfaces. Besides adaptive UIs, I am quite interested in HCI and learning technologies."
         },
 
         "es": {
