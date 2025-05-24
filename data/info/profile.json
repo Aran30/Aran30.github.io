@@ -48,6 +48,14 @@
             "valueShort": "@jonas.einstein.official",
             "faIcon": "fa-brands fa-linkedin",
             "href": "https://www.linkedin.com/in/aaron-d-conrardy/"
+        },
+        
+        "g_scholar": {
+            "id": "Google Scholar",
+            "value": "@aaron.conrardy",
+            "valueShort": "@aaron.conrardy",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "href": "https://scholar.google.com/citations?user=USgHZwUAAAAJ&hl=en&authuser=1"
         }
     }
 }

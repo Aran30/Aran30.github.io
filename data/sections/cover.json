@@ -28,7 +28,8 @@
     "items": {
         "socialCircles": [
             "@link{profile.contact.linkedin}",
-            "@link{profile.contact.github}"
+            "@link{profile.contact.github}",
+            "@link{profile.contact.g_scholar}"
         ],
 
         "contactListItems": [
