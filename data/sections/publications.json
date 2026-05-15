@@ -40,57 +40,57 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Towards the interoperability of low-code platforms",
-            "description": "First Large Language Models for Model-Driven Engineering Workshop (LLM4MDE 2024)",
-            "url": "https://www.researchgate.net/publication/386555532_Towards_the_interoperability_of_low-code_platforms"
-          },
-          "es": {
-            "title": "Análisis de Datos Centrado en el Usuario",
-            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
-          },
-          "fr": {
-            "title": "Analyse de Données Axée sur l'Utilisateur",
-            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
-          },
-          "zh": {
-            "title": "以用户为中心的数据分析",
-            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": null,
-        "value": null,
-        "locales": {
-          "en": {
-            "title": "User Modeling in Model-Driven Engineering: A Systematic Literature Review",
-            "description": "First Large Language Models for Model-Driven Engineering Workshop (LLM4MDE 2024)",
-            "url": "https://www.researchgate.net/publication/387321835_User_Modeling_in_Model-Driven_Engineering_A_Systematic_Literature_Review"
-          },
-          "es": {
-            "title": "Análisis de Datos Centrado en el Usuario",
-            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
-          },
-          "fr": {
-            "title": "Analyse de Données Axée sur l'Utilisateur",
-            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
-          },
-          "zh": {
-            "title": "以用户为中心的数据分析",
-            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
-          }
-        }
-      },
-      {
-        "imageIconUrl": null,
-        "faIcon": null,
-        "value": null,
-        "locales": {
-          "en": {
             "title": "From Image to UML: First Results of Image Based UML Diagram Generation Using LLMs",
-            "description": "First Large Language Models for Model-Driven Engineering Workshop (LLM4MDE 2024)",
+            "description": "arXiv preprint (2024)",
             "url": "https://arxiv.org/abs/2404.11376"
+          },
+          "es": {
+            "title": "Análisis de Datos Centrado en el Usuario",
+            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
+          },
+          "fr": {
+            "title": "Analyse de Données Axée sur l'Utilisateur",
+            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
+          },
+          "zh": {
+            "title": "以用户为中心的数据分析",
+            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Building BESSER: an open-source low-code platform",
+            "description": "International Conference on Business Process Modeling, Development and Support (2024)",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-61007-3_16"
+          },
+          "es": {
+            "title": "Análisis de Datos Centrado en el Usuario",
+            "description": "Competente en analizar datos con un enfoque en las necesidades y preferencias de los usuarios, lo que permite tomar decisiones basadas en datos que se alinean con las expectativas de los usuarios."
+          },
+          "fr": {
+            "title": "Analyse de Données Axée sur l'Utilisateur",
+            "description": "Compétent dans l'analyse de données axée sur les besoins et préférences des utilisateurs, permettant des décisions basées sur les données qui sont en accord avec les attentes des utilisateurs."
+          },
+          "zh": {
+            "title": "以用户为中心的数据分析",
+            "description": "熟练分析数据，专注于用户的需求和偏好，实现与用户期望相符的基于数据的决策。"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Motivating Learners with Gamified Chatbot-Assisted Learning Activities",
+            "description": "International Conference on Web-Based Learning (2023)",
+            "url": "https://link.springer.com/chapter/10.1007/978-981-99-8385-8_15"
           },
           "es": {
             "title": "Análisis de Datos Centrado en el Usuario",
@@ -113,9 +113,9 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Building BESSER: an open-source low-code platform",
-            "description": "International Conference on Business Process Modeling, Development and Support (2024)",
-            "url": "https://link.springer.com/chapter/10.1007/978-3-031-61007-3_16"
+            "title": "Supplemental Mobile Learner Support Through Moodle-Independent Assessment Bots",
+            "description": "International Conference on Web-Based Learning (2021)",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-90785-3_7"
           },
           "es": {
             "title": "Accesibilidad y Diseño Inclusivo",
@@ -137,9 +137,9 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "A Leaderboard to Benchmark Ethical Biases in LLMs",
-            "description": "Workshop on AI bias: Measurements, Mitigation, Explanation Strategies AIMMES (2024)",
-            "url": "https://www.researchgate.net/profile/Aaron-Conrardy/publication/384897932_A_Leaderboard_to_Benchmark_Ethical_Biases_in_LLMs/links/670d2f7dfe22924808acae93/A-Leaderboard-to-Benchmark-Ethical-Biases-in-LLMs.pdf"
+            "title": "Towards the interoperability of low-code platforms",
+            "description": "arXiv preprint (2024)",
+            "url": "https://arxiv.org/abs/2412.05075"
           },
           "es": {
             "title": "Visualización de Información",
@@ -161,9 +161,9 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Motivating Learners with Gamified Chatbot-Assisted Learning Activities",
-            "description": "International Conference on Web-Based Learning (2023)",
-            "url": "https://link.springer.com/chapter/10.1007/978-981-99-8385-8_15"
+            "title": "Towards the Interoperability of Low-Code Platforms",
+            "description": "International Conference on Advanced Information Systems Engineering (2025)",
+            "url": "https://www.researchgate.net/publication/386555532_Towards_the_interoperability_of_low-code_platforms"
           },
           "es": {
             "title": "Desarrollo Front-End",
@@ -185,8 +185,92 @@
         "value": null,
         "locales": {
           "en": {
-            "title": "Supplemental Mobile Learner Support Through Moodle-Independent Assessment Bots",
-            "description": "International Conference on Web-Based Learning (2021)",
+            "title": "User Modeling in Model-Driven Engineering: A Systematic Literature Review",
+            "description": "Journal of Object Technology 24 (2), 2:1-14 (2025)",
+            "url": "https://www.researchgate.net/publication/387321835_User_Modeling_in_Model-Driven_Engineering_A_Systematic_Literature_Review"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "A Leaderboard to Benchmark Ethical Biases in LLMs.",
+            "description": "Workshop on AI bias: Measurements, Mitigation, Explanation Strategies AIMMES (2024)",
+            "url": "https://www.researchgate.net/profile/Aaron-Conrardy/publication/384897932_A_Leaderboard_to_Benchmark_Ethical_Biases_in_LLMs/links/670d2f7dfe22924808acae93/A-Leaderboard-to-Benchmark-Ethical-Biases-in-LLMs.pdf"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Low-code to fight climate change: the Climaborough project",
+            "description": "arXiv preprint (2025)",
+            "url": "https://arxiv.org/abs/2506.14623"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Towards a unified user modeling language for engineering human centered AI systems",
+            "description": "arXiv preprint (2025)",
+            "url": "https://arxiv.org/abs/2505.24697"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Low-code and no-code with BESSER to create and deploy smart web applications",
+            "description": "arXiv preprint (2026)",
+            "url": "https://arxiv.org/abs/2605.07376"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "A Low-Code Approach for the Automatic Personalization of Conversational Agents",
+            "description": "arXiv preprint (2026)",
+            "url": "https://arxiv.org/abs/2605.02384"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Motivating Learners with Gamified Chatbot-Assisted Learning Activities",
+            "description": "Advances in Web-Based Learning - ICWL 2023: 22nd International Conference",
+            "url": "https://link.springer.com/chapter/10.1007/978-981-99-8385-8_15"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": null,
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Supplemental Mobile Learner Support Through Moodle-Independent",
+            "description": "Advances in Web-Based Learning - ICWL 2021: 20th International Conference",
             "url": "https://link.springer.com/chapter/10.1007/978-3-030-90785-3_7"
           }
         }
