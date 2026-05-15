@@ -39,11 +39,31 @@
         }
     },
 
-    "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+    "list": {
+        "logoUrl": "images/places/list.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
+            "en": {"name": "Luxembourg Institute of Science and Technology"},
+            "es": {"name": "Universidad de Harvard"},
+            "fr": {"name": "Université Harvard"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+    "rwth": {
+        "logoUrl": "images/places/rwth.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "RWTH Aachen"},
+            "es": {"name": "Universidad de Harvard"},
+            "fr": {"name": "Université Harvard"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+    "rwthdbis": {
+        "logoUrl": "images/places/rwth.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "RWTH Aachen - Chair of Databases and Information Systems"},
             "es": {"name": "Universidad de Harvard"},
             "fr": {"name": "Université Harvard"},
             "zh": {"name": "哈佛大学"}

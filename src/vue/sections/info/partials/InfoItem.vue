@@ -18,7 +18,14 @@
             <!-- Header (Simplified Style) -->
             <div v-else class="info-item-content-header">
                 <p class="text-light-7 text-4 mb-0">
-                    <strong>{{item['locales']['title']}}</strong>
+                    <template v-if="item['locales']['url']">
+                        <a :href="item['locales']['url']" class="info-item-title text-4 fw-bold text-normal mb-0 link-style" target="_blank">
+                            {{ item['locales']['title'] }}
+                        </a>
+                    </template>
+                    <template v-else>
+                        <strong>{{item['locales']['title']}}</strong>
+                    </template>
                     <span class="text-3" v-if="item['formattedPercentage']"> – {{item['formattedPercentage']}}</span>
                 </p>
             </div>

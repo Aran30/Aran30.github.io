@@ -23,14 +23,14 @@
 
     "items": [
         {
-            "id": "online_course_udacity",
-            "place": "@link{places.udacity}",
-            "period": ["2014/01", "2014/07"],
+            "id": "bachelor_rwth",
+            "place": "@link{places.rwth}",
+            "period": ["2017/10", "2020/10"],
 
             "locales": {
                 "en": {
-                    "title": "UX Fundamentals Online Certification",
-                    "description": "Enrolled in an online program covering essential UX concepts, including user research, usability testing, and information architecture. Strengthened skills in creating intuitive and user-friendly digital experiences."
+                    "title": "Bachelor in Computer Science",
+                    "description": "Completed my bachelor in computer science at the RWTH Aachen. My bachelor thesis was titled 'Chat Assessments with Social Bots' in which I implemented and evaluated chatbots capable of extracting quizzes from Moodle and do them in the chat-platform."
                 },
 
                 "es": {
@@ -51,14 +51,14 @@
         },
 
         {
-            "id": "bachelor_harvard",
-            "place": "@link{places.harvard}",
-            "period": ["2014/08", "2018/05"],
+            "id": "master_rwth",
+            "place": "@link{places.rwth}",
+            "period": ["2020/10", "2023/06"],
 
             "locales": {
                 "en": {
-                    "title": "Bachelor's in Graphic Design with UX Emphasis",
-                    "description": "Graduated with a solid foundation in graphic design while specializing in user experience design. Acquired expertise in visual storytelling, UI design, and collaborative design thinking."
+                    "title": "Master in Computer Science",
+                    "description": "Completed my master in computer science at the RWTH Aachen. My master thesis was titled 'Utilizing Chatbots to Gamify Learning Activities and Their Effect on Motivation' in which I developed a framework to enable the gamification of learning activities in a chat-platform. Additionally, an empirical evaluation took place to assess the gamification's affect on motivation."
                 },
 
                 "es": {
@@ -79,14 +79,14 @@
         },
 
         {
-            "id": "masters_paris",
-            "place": "@link{places.paris}",
-            "period": ["2018/09", "2020/05"],
+            "id": "phd_list",
+            "place": "@link{places.list}",
+            "period": ["2024/10", "2027/10"],
 
             "locales": {
                 "en": {
-                    "title": "Master's in Human-Computer Interaction",
-                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                    "title": "PhD in low-code development of adaptive user interfaces.",
+                    "description": "Started a PhD that focuses on the efficient development of adaptive interfaces leveraging low-code/MDE techniques at the Luxembourg Institute of Science and Technology."
                 },
 
                 "es": {

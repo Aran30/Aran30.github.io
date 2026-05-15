@@ -244,6 +244,12 @@ npm run deploy
 
 This step serves as a solution to the problem discussed in detail at https://stackoverflow.com/questions/48521177/404-when-reloading-a-vue-website-published-to-github-pages. This command will create a `404.html` file as a copy of `index.html`, so when users access a secondary route (like `/education` or `/skills`), it will redirect them to the Vue App instead of GitHub's default 404 page.
 
+## Deployment 
+Run 
+```
+gh-pages -d dist --clean
+```
+
 ## About
 
 This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
